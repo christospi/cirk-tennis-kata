@@ -12,7 +12,7 @@ There are several versions of this refactoring kata, each with their own design 
 
 There is a deliberate error in several of the implementations - the player names are hard-coded to "player1" and "player2". After you refactor, you may want to fix this problem and add suitable test cases to prove your fix works.
 
-If you like this Kata, you may be interested in [my books](https://leanpub.com/u/emilybache) and website [SammanCoaching.org](https://sammancoaching.org)
+If you like this Kata, you may be interested in [my books](https://leanpub.com/u/emilybache) and website [SammanCoaching.org](https://sammancoaching.org).
 
 ## Kata Description
 
@@ -27,7 +27,7 @@ You can read more about Tennis scores on [wikipedia](http://en.wikipedia.org/wik
 3. If at least three points have been scored by each player, and the scores are equal, the score is “Deuce”.
 4. If at least three points have been scored by each side and a player has one more point than his opponent, the score of the game is “Advantage” for the player in the lead.
 
-ℹ️ **You need only report the score for the current game. Sets and Matches are out of scope.**
+ℹ️ You need only report the score for the current game. **Sets and Matches are out of scope.**
 
 
 ## Questions to discuss afterwards
