@@ -1,0 +1,13 @@
+
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+
+*.log
+build
+tests_build
+coverage
+
+.idea
+.DS_Store
