@@ -45,3 +45,8 @@ _If you want to know more about tennis scoring, you can read the [Wikipedia arti
 
 ## Code Reading Practice
 Test your code reading skills. Here is a description of what to do: [Scanning for Code Smells](https://sammancoaching.org/exercises/code_reading.html). There are suitable lists of urls to open in some of the language subdirectories.
+
+## Prerequisites
+
+- Install [Node.js and NPM](https://nodejs.org/en/download)
+- Instal [TypeScript](https://www.typescriptlang.org/download/)
