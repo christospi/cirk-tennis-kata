@@ -16,21 +16,22 @@ If you like this Kata, you may be interested in [my books](https://leanpub.com/u
 
 ## Kata Description
 
-_Here is a description of the problem this code is designed to solve:_
+_Here is a description of the problem this code **is designed to solve**:_
 
-Tennis has a rather quirky scoring system, and to newcomers it can be a little difficult to keep track of. The tennis society has contracted you to build a scoreboard to display the current score during tennis games.
+Tennis has a rather quirky scoring system, and to newcomers it can be a little difficult to keep track of. The tennis society has contracted you to **build a scoreboard to display the current score** during tennis games.
 
-You can read more about Tennis scores on [wikipedia](http://en.wikipedia.org/wiki/Tennis#Scoring) which is summarized below:
+A short summary of the rules of tennis scoring is as follows:
 
-1. A game is won by the first player to have won at least four points in total and at least two points more than the opponent.
-2. The running score of each game is described in a manner peculiar to tennis: scores from zero to three points are described as “Love”, “Fifteen”, “Thirty”, and “Forty” respectively.
-3. If at least three points have been scored by each player, and the scores are equal, the score is “Deuce”.
-4. If at least three points have been scored by each side and a player has one more point than his opponent, the score of the game is “Advantage” for the player in the lead.
+1. A game is won by the first player to have won **at least four points in total and at least two points more** than the opponent.
+2. The running score of each game is described in a manner peculiar to tennis: scores from zero to three points are described as `Love`, `Fifteen`, `Thirty`, and `Forty` respectively.
+3. If **at least three points have been scored by each player, and the scores are equal**, the score is `Deuce`.
+4. If **at least three points have been scored by each side and a player has one more point than his opponent**, the score of the game is `Advantage` for the player in the lead.
 
-ℹ️ You need only report the score for the current game. **Sets and Matches are out of scope.**
+ℹ️ Note: You don’t need to handle sets or matches, just a single game score.
 
+_If you want to know more about tennis scoring, you can read the [Wikipedia article](http://en.wikipedia.org/wiki/Tennis#Scoring)._
 
-## Questions to discuss afterwards
+## Some questions to discuss afterwards
 
 * How did it feel to work with such fast, comprehensive tests?
 * Did you make mistakes while refactoring that were caught by the tests?
@@ -38,6 +39,9 @@ You can read more about Tennis scores on [wikipedia](http://en.wikipedia.org/wik
 * Did you ever make any refactoring mistakes and then back out your changes? How did it feel to throw away code?
 * What would you say to your colleague if they had written this code?
 * What would you say to your boss about the value of this refactoring work? Was there more reason to do it over and above the extra billable hour or so?
+* What’s your approach when refactoring unfamiliar code in a real codebase?
+* If you had another hour, what would you improve next?
+* How do you feel about the code now? Is it better? How would you describe the improvements you made?
 
 ## Code Reading Practice
 Test your code reading skills. Here is a description of what to do: [Scanning for Code Smells](https://sammancoaching.org/exercises/code_reading.html). There are suitable lists of urls to open in some of the language subdirectories.
